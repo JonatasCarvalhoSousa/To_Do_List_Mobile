@@ -8,15 +8,17 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-- Node.js LTS release
 - Git
+- Expo
+- Node.js
+- React Native
+- React Navigation
 
 Ferramentas recomendadas:
 - Editor de código VS
-- Extensão VS Code Expo para depuração e preenchimento automático de app.json .
 - Yarn
 Usuários do Windows: PowerShell , Bash via WSL ou o terminal VS Code.
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando Projeto
 
 ```bash
 # Clone este repositório
@@ -34,7 +36,6 @@ $ expo start
 
 # Será gerado um qrCode para instalação em um smartphone físico ou através de um servido em um emulador.
 ```
-
 
 ### 🛠 Tecnologias
 
